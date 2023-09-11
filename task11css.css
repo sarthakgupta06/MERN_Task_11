@@ -1,0 +1,53 @@
+div{
+    margin-left: 500px;
+}
+
+.img{
+    margin-left: 530px;
+}
+
+#user{
+    padding: 7px;
+    width: 300px;
+}
+
+#pass{
+    padding: 7px;
+    width: 300px;
+}
+
+a{
+    color: black;
+}
+
+.frg{
+    margin-left: 50px;
+    text-decoration: none;
+}
+
+.log{
+    margin-left: 500px;
+    width: 320px;
+    padding: 7px;
+    background-color: green;
+    border: 0px;
+    color: white;
+    border-radius: 3px;
+}
+
+.log:hover{
+    background-color: limegreen;
+}
+
+.cnc{
+    background-color: red;
+    border: 0px;
+    padding: 5px;
+    border-radius: 4px;
+    margin-left: 500px;
+    color: white;
+}
+
+.cnc:hover{
+    background-color: brown;
+}
